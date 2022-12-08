@@ -195,6 +195,9 @@
 .member_img img {
 	width: 90% ;
 }
+	.member_btn a {
+    font-size: 13px !important;
+}
 /* memberr part end */
 /* footer part strt */
 .foot1{
