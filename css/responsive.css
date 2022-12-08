@@ -181,7 +181,7 @@
 }
 .member_text h2 {
 	font-weight: 500 !important;
-	font-size:38px;
+	font-size:38px !important;
 }
 .member_text .p2 {
 	font-size: 15px !important;
