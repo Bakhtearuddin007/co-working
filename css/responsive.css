@@ -171,7 +171,7 @@
 }
 .gal_left img {
 	width: 85%;
-    margin-top: 20px;
+    margin-top: 70px;
 }
 /* gallery part end */
 /* memberr part strt */
@@ -181,7 +181,7 @@
 }
 .member_text h2 {
 	font-weight: 500 !important;
-	font-size:42px;
+	font-size:38px;
 }
 .member_text .p2 {
 	font-size: 15px !important;
